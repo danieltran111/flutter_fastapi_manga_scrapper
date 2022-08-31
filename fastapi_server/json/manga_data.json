@@ -1,0 +1,61 @@
+[
+    {
+        "id": 67880,
+        "image": "http://127.0.0.1:8000/resource/mangaCoverImages/67880.jpg",
+        "fullname": "K\u1ebb ph\u1ea3n di\u1ec7n thu\u1ea7n t\u00fay",
+        "tags": [
+            "Action",
+            "Comedy",
+            "Manhwa",
+            "Romance",
+            "Shoujo",
+            "Truy\u1ec7n M\u00e0u"
+        ],
+        "liked": true,
+        "href": "http://nhattruyenone.com/truyen-tranh/ke-phan-dien-thuan-tuy-67880",
+        "description": "M\u1ed9t th\u1ebf gi\u1edbi m\u00e0 c\u1ea3nh s\u00e1t \u0111\u1eb7c bi\u1ec7t t\u1ed3n t\u1ea1i \u0111\u1ec3 \u0111\u1ed1i ph\u00f3 v\u1edbi nh\u1eefng t\u00ean t\u1ed9i ph\u1ea1m v\u1edbi kh\u1ea3 n\u0103ng \u0111\u1ed9c nh\u1ea5t v\u00f4 nh\u1ecb. M\u1ed9t nh\u00e2n v\u1eadt ph\u1ea3n di\u1ec7n v\u00f4 l\u00fd \u0111\u1ebfn v\u1edbi Han Doryeong, c\u1ea3nh s\u00e1t \u0111\u1eb7c nhi\u1ec7m m\u1ea1nh nh\u1ea5t \u0111ang tr\u1ea3i qua nh\u1eefng ng\u00e0y y\u00ean b\u00ecnh! Nh\u01b0ng c\u00f3 g\u00ec \u0111\u00f3 kh\u00f4ng \u1ed5n v\u1edbi t\u00ean t\u1ed9i ph\u1ea1m n\u00e0y? Nh\u00e2n v\u1eadt ph\u1ea3n di\u1ec7n t\u1ed3i t\u1ec7 nh\u1ea5t y\u00eau ng\u01b0\u1eddi h\u00f9ng m\u1ea1nh nh\u1ea5t, c\u00e2u chuy\u1ec7n t\u00ecnh y\u00eau \u0111i\u00ean r\u1ed3 c\u1ee7a \u201cPark Rosa\u201d.",
+        "no_of_chapters": 6,
+        "chapters": [
+            {
+                "id": 895852,
+                "name": "Chapter 6"
+            },
+            {
+                "id": 894970,
+                "name": "Chapter 5"
+            },
+            {
+                "id": 894055,
+                "name": "Chapter 4"
+            },
+            {
+                "id": 894054,
+                "name": "Chapter 3"
+            },
+            {
+                "id": 894053,
+                "name": "Chapter 2"
+            },
+            {
+                "id": 894052,
+                "name": "Chapter 1"
+            }
+        ]
+    },
+    {
+        "id": 18651,
+        "image": "http://127.0.0.1:8000/resource/mangaCoverImages/18651.jpg",
+        "fullname": "T\u00f3m l\u1ea1i l\u00e0 em d\u1ec5 th\u01b0\u01a1ng \u0111\u01b0\u1ee3c ch\u01b0a ?",
+        "tags": [
+            "Comedy",
+            "Drama",
+            "Manga",
+            "Romance",
+            "Shounen"
+        ],
+        "liked": false,
+        "href": "http://nhattruyenone.com/truyen-tranh/tom-lai-la-em-de-thuong-duoc-chua-18651",
+        "description": "M\u00f4\u0323t c\u00e2u chuy\u00ea\u0323n v\u00ea\u0300 ti\u0300nh y\u00eau va\u0300 hi vo\u0323ng ,Tonikaku kawaii theo ch\u00e2n nh\u00e2n v\u00e2\u0323t chi\u0301nh v\u01a1\u0301i ca\u0301i t\u00ean ki\u0300 qu\u0103\u0323c Yuzaki Nasa ( Co\u0301 y\u0301 nghi\u0303a la\u0300 b\u00e2\u0300u tr\u01a1\u0300i \u0111\u00e2\u0300y sao theo ti\u00ea\u0301ng nh\u00e2\u0323t) ,Va\u0300o m\u00f4\u0323t nga\u0300y \u0111i\u0323nh m\u00ea\u0323nh ,chu\u00e2\u0309n bi\u0323 cho ki\u0300 thi \u0111\u00e2\u0300u va\u0300o quan tro\u0323ng c\u00e2\u0323u g\u0103\u0323p \u0111\u01b0\u01a1\u0323c m\u00f4\u0323t c\u00f4 ga\u0301i xinh \u0111e\u0323p. V\u01a1\u0301i Nasa-kun \u0111o\u0301 d\u01b0\u01a1\u0300ng nh\u01b0 la\u0300 \u0111i\u0323nh m\u00ea\u0323nh \u0111ang v\u00e2\u0303y go\u0323i mi\u0300nh r\u0103\u0300ng mi\u0300nh chi\u0301nh th\u01b0\u0301c co\u0301 g\u00e2\u0301u cho\u0301 nh\u01b0ng ng\u01a1\u0300 \u0111\u00e2u\u2026",
+        "no_of_chapters": 229
+    }
+]
